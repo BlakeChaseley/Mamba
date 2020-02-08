@@ -1,2 +1,0 @@
-# Mamba
-Created with CodeSandbox
